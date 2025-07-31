@@ -1,6 +1,6 @@
 # GadgetHeaven 🛍️
 
-![GadgetHeaven](https://img.shields.io/badge/GadgetHeaven-Your%20Tech%20Destination-3B82F6)
+LIVE LINK : https://gadget-heaven-sam.vercel.app/
 
 Your go-to destination for the latest and greatest gadgets. This e-commerce platform allows users to browse, search, and purchase a wide range of tech products.
 
