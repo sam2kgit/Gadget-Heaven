@@ -54,9 +54,9 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <address className="not-italic text-gray-400">
               <p className="mb-2">123 Tech Street</p>
-              <p className="mb-2">Silicon Valley, CA 94043</p>
-              <p className="mb-2">Email: info@gadgetheaven.com</p>
-              <p>Phone: +1 (555) 123-4567</p>
+              <p className="mb-2">DHAKA,BANGLADESH</p>
+              <p className="mb-2">Email: mdsami812000@gmail.com</p>
+              <p>Phone: +x xxxxxxxx</p>
             </address>
           </div>
         </div>
